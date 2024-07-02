@@ -1,0 +1,55 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Output of the 'go tool' command
+*.out
+
+# Go workspace
+go.work
+
+# Go build files
+build/
+dist/
+bin/
+*.exe
+*.log
+*.test
+
+# Coverage reports
+coverage.out
+*.coverprofile
+
+# Dependencies
+vendor/
+
+# Environment files
+.env
+.env.*
+
+# macOS files
+.DS_Store
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+
+# IDE specific
+*.iml
+*.ipr
+*.iws
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+tmp
+
+# Binary
+lambdalabs-bot
